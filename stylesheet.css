@@ -1,1 +1,25 @@
+body {
+    background-color: white;
+}
 
+header {
+    background-color: #A9A9A9;
+}
+header h1 {
+    text-decoration: underline;
+    padding: 12px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+h3 {
+    color: black;
+}
+
+footer {
+    background-color: #A9A9A9;
+    font-style: italic;
+    padding: 12px;
+}
